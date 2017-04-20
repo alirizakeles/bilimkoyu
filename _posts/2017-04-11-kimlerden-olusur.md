@@ -1,5 +1,5 @@
 ---
-title: "kim"
+title: "Biz"
 bg: turquoise     
 color: white  #text color
 style: center
