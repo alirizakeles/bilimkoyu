@@ -1,6 +1,6 @@
 ---
 title: "uçkan"
-bg: blue     
+bg: petal     
 color: white  #text color
 style: center
 fa-icon: compass

@@ -1,16 +1,16 @@
 ---
 title: "Giriş"
-bg: white     
-color: black
+bg: sapphire     
+color: white
 style: center
 
 ---
 
 # Özgür Bilim Köyü
     Özgür Uçkan'ın anısına
-    
+
 ## Nedir?
-Özgür Bilim Köyü, başta enformatik ve bilgisayar bilimleri gelmek üzere çeşitli alanlardan gönüllülerin yaşam ve üretim alanıdır. Otonomi ve çeşitlilik seven, rasyonel düşünceyi ve bilimi gündelik yaşantının olabildiğince parçası haline getirmeye uğraşan insanlardan oluşur. Köyümüz, Nesin Matematik Köyü gibi ülkemizin değerli örneklerinin yanı sıra, dünyadaki diğer kolektifleri ve girişimleri kendine örnek almaktadır. 
+Özgür Bilim Köyü, başta enformatik ve bilgisayar bilimleri gelmek üzere çeşitli alanlardan gönüllülerin yaşam ve üretim alanıdır. Otonomi ve çeşitlilik seven, rasyonel düşünceyi ve bilimi gündelik yaşantının olabildiğince parçası haline getirmeye uğraşan insanlardan oluşur. Köyümüz, Nesin Matematik Köyü gibi ülkemizin değerli örneklerinin yanı sıra, dünyadaki diğer kolektifleri ve girişimleri kendine örnek almaktadır.
 
 ## Üretim Alanı
 Özgür Bilim Köyü, katılımcılarının ekonomik, akademik ve politik üretimleri için olanaklarını seferber eder. Bu üretim için nitelikli ve rasyonel bilgiye erişmek, ağlar aracılığıyla gereksinim duyulan mecralara ulaşabilmek oldukça kıymetlidir. Köyümüzün en değerli olanağı, topluluğu meydana getiren insanların bilgi birikimleri ve içerisinde bulundukları ağların çeşitliliğidir.

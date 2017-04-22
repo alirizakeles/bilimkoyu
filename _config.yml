@@ -32,7 +32,10 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  sapphire: '#2779A6'
+  purpleray: '#AEA7CF'
+  petal: '#E5B3D0'
+  pebble: '#2F4844C'
 
 kramdown:
   auto_ids:  false
-
