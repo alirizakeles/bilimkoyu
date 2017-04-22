@@ -1,6 +1,6 @@
 ---
 title: "Yol Haritası"
-bg: purple    
+bg: pebble   
 color: white  #text color
 style: left
 fa-icon: road
@@ -14,10 +14,10 @@ fa-icon: road
   * Vakıf ve/ veya şirketin kurulması
   * Gelir modelinin belirlenmesi
   * Akademik birim için işbirliği yapılacak üniversitenin belirlenmesi
-  * Toplam bütçenin belirlenmesi ve denkleştirilmesi(Topluluk üyelerinin katkıları, bağışlar, sponsorluklar, çeşitli fonlar) 
- 
+  * Toplam bütçenin belirlenmesi ve denkleştirilmesi(Topluluk üyelerinin katkıları, bağışlar, sponsorluklar, çeşitli fonlar)
+
 - Lokasyon ve Köy Arazisinin belirlenmesi
-  * Seçenekler 
+  * Seçenekler
     1. Türkiye (Nesin Köyüne komşu olma, Ege, Doğu Karadeniz)
     2. Gürcistan (Güney kesimleri)
     3. Avrupa (İspanya, Orta Güney İtalya, Güney Yunanistan)
@@ -32,4 +32,3 @@ fa-icon: road
   * Hackerspace/Atolye (3)
   * Kütüphane (3)
   * Spor alanı (5)
-
