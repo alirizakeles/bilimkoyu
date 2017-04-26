@@ -1,6 +1,6 @@
 ---
 title: "Biz"
-bg: turquoise     
+bg: turkuaz     
 color: white  #text color
 style: center
 fa-icon: users

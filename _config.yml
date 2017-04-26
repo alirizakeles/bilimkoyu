@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Uçkan Bilim Köyü"
-keywords:    "bilim köyü, ekolojik köy, otonomi, özgür Uçkan"
-description: "Uçkan Bilim Köyü Projesi sayfasıdır"
+title:       "Bilişim Köyü"
+keywords:    "bilişim köyü, bilim köyü, ekolojik köy, otonomi"
+description: "Bilişim Köyü Projesi"
 source_link: "https://github.com/alirizakeles/bilimkoyu"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
@@ -27,15 +27,24 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  sapphire: '#2779A6'
-  purpleray: '#AEA7CF'
-  petal: '#E5B3D0'
-  pebble: '#2F484C'
+  # blue:      '#49a7e9'
+  # green:     '#9bcf2f'
+  # purple:    '#c869bf'
+  # orange:    '#fab125'
+  # turquoise: '#0fbfcf'
+  # sapphire: '#2779A6'
+  # purpleray: '#AEA7CF'
+  # petal: '#E5B3D0'
+  # pebble: '#2F484C'
+
+  mavi: '#375d96'
+  turkuaz: '#7595c5'
+  turuncu: '#fa6541'
+  yavruagzi: '#ec7a5e'
+  sari: '#ffba00'
+  aciksari: '#ffd974'
+  yesil: '#3f671b'
+  acikyesil: '#8bb862'
 
 kramdown:
   auto_ids:  false

@@ -184,8 +184,9 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#fefefe;
   background-image:none;
+  border-top: 10px solid black;
 }
 #footer .container p { font-size:13px; margin:0; }
 

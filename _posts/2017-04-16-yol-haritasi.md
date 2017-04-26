@@ -1,7 +1,7 @@
 ---
 title: "Yol Haritası"
-bg: pebble   
-color: white  #text color
+bg: sari   
+color: black  #text color
 style: left
 fa-icon: road
 ---
@@ -9,7 +9,6 @@ fa-icon: road
 # Yol Haritası
 
 - Kurucu listesinin netleştirilmesi ve kuruluş fonunun oluşturulması
-
 - Kurumsal yapı ve bütçe
   * Vakıf ve/ veya şirketin kurulması
   * Gelir modelinin belirlenmesi
